@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Main is da best.
+=======
+This is test 2
+follow up
+>>>>>>> changes
